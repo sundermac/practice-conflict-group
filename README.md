@@ -1,2 +1,13 @@
-# practice-conflict-group
-This is practice to create a conflict in a group
+## Merge Conflicts
+
+### I SHALL MAKE ALL THE CONFLICTS
+
+#### YOU SHALL LIVE IN FEAR OF THE MERGE CONFLICTS
+
+*Interesting*
+
+HAHAHHAHAHAHAHAHAAHAHAHAHAAHA
+
+Fix all these conflicts. 
+
+I Dare You.
